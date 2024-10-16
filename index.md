@@ -7,17 +7,17 @@ Most notably, I built [Banana](https://banana.dev), one of the first and most lo
 I'm now working with [Modal](https://modal.com) to help show the world the power of self-provisioning infra.
 
 ### Links
-[Twitter](https://twitter.com/erikdunteman)
-[LinkedIn](https://linkedin.com/in/edunteman)
-[Github](https://github.com/erik-dunteman)
-[OnlyFans](https://youtu.be/dQw4w9WgXcQ)
-[Personal Site](/)
+- [Twitter](https://twitter.com/erikdunteman)
+- [LinkedIn](https://linkedin.com/in/edunteman)
+- [Github](https://github.com/erik-dunteman)
+- [OnlyFans](https://youtu.be/dQw4w9WgXcQ)
+- [Personal Site](/)
 
 ### Blogs
-- Jan 2022 - [Open Sourcing My Privilege](blog/open-sourcing-my-privilege)
-- Jul 2022 - [Signal Can Lead To Substance](blog/signal-can-lead-to-substance)
-- Feb 2024 - [Banana Pivot: Unpeeled](blog/banana-pivot-unpeeled)
-- Jun 2024 - [Shutting Down Banana](blog/shutting-down-banana)
+- [Open Sourcing My Privilege](blog/open-sourcing-my-privilege) - Jan 2022
+- [Signal Can Lead To Substance](blog/signal-can-lead-to-substance) - Jul 2022
+- [Banana Pivot: Unpeeled](blog/banana-pivot-unpeeled) - Feb 2024
+- [Shutting Down Banana](blog/shutting-down-banana) - Jun 2024
 
 ### Side Interests
 - I enjoy drinking water (no ice)
