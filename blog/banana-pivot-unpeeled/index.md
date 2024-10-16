@@ -172,3 +172,4 @@ Moving forward, our priorities are:
 We’re still exploratory. There are plenty of tools we’re aware of, and many more we’re certainly not aware of, so if you’re working in this space or are a potential user with strong opinions, I’d love to chat ([DM me](https://twitter.com/erikdunteman)).
 
 You can use Fructose in its current state here:
+https://github.com/bananaml/fructose
