@@ -16,7 +16,7 @@ The purpose of this blog is to **reject** the “sophisticated” notion that si
 
 To come to this conclusion, I went through the bell curve lifecycle:
 
-![Screen Shot 2022-07-07 at 10.11.25 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8066a525-5310-419a-95a7-2db68ebfc648/Screen_Shot_2022-07-07_at_10.11.25_AM.png)
+![Screen Shot 2022-07-07 at 10.11.25 AM.png](https://banana-dev.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8066a525-5310-419a-95a7-2db68ebfc648%2FScreen_Shot_2022-07-07_at_10.11.25_AM.png?table=block&id=73fd7458-696c-476b-a69d-64aaf5c8d465&spaceId=55445ebe-4d44-4adc-a538-1d70c744034f&width=1250&userId=&cache=v2)
 
 To be clear, for me signal is not more important than substance. I see signal is a tool, not an objective. In the end, my only goal is to make shit happen in my life and for the world.
 
@@ -26,7 +26,7 @@ using graphs!
 
 Here’s the Substance and Signal graph over my 26 years
 
-![Screen Shot 2022-07-10 at 9.06.45 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c0c323b-dccf-4704-a6b5-606573e2a86f/Screen_Shot_2022-07-10_at_9.06.45_PM.png)
+![Screen Shot 2022-07-10 at 9.06.45 PM.png](https://banana-dev.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3c0c323b-dccf-4704-a6b5-606573e2a86f%2FScreen_Shot_2022-07-10_at_9.06.45_PM.png?table=block&id=fe023afd-0e3b-4981-a2a9-2d2e401e3265&spaceId=55445ebe-4d44-4adc-a538-1d70c744034f&width=1420&userId=&cache=v2)
 
 The levels on the substance graph are mostly going up! 
 
@@ -34,11 +34,11 @@ But I am not satisfied.
 
 I’n not satisfied with a flattening substance graph because I want to always be raising the bar. Especially since I’m measuring substance as “outstandingly significant accomplishments”, to be outstanding means to be great relative to those around you. So the progress I care about is relative to an ever increasing substance base, in blue below:
 
-![Screen Shot 2022-07-10 at 9.06.14 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c24b3dc-2be0-44cf-93c5-e67976df5a45/Screen_Shot_2022-07-10_at_9.06.14_PM.png)
+![Screen Shot 2022-07-10 at 9.06.14 PM.png](https://banana-dev.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9c24b3dc-2be0-44cf-93c5-e67976df5a45%2FScreen_Shot_2022-07-10_at_9.06.14_PM.png?table=block&id=80cb5cae-8738-41fb-8ce0-bbf4d43d5b13&spaceId=55445ebe-4d44-4adc-a538-1d70c744034f&width=1420&userId=&cache=v2)
 
 Below is the final graph, adjusted so that the success curve is relative to the blue baseline in the previous graph. 
 
-![Screen Shot 2022-07-10 at 8.56.42 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbe426d6-fbe4-44b6-b092-d762baa11dda/Screen_Shot_2022-07-10_at_8.56.42_PM.png)
+![Screen Shot 2022-07-10 at 8.56.42 PM.png](https://banana-dev.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdbe426d6-fbe4-44b6-b092-d762baa11dda%2FScreen_Shot_2022-07-10_at_8.56.42_PM.png?table=block&id=35fd8d3f-d183-48c4-9c58-4ec9f0d5a926&spaceId=55445ebe-4d44-4adc-a538-1d70c744034f&width=1420&userId=&cache=v2)
 
 Now that we have my profile, we’ll focus on three key lessons learned at ages 20, 23, and 26.
 
@@ -134,7 +134,7 @@ In parallel, I’d formed a negative mental association between hard workers and
 
 Looking back at how I behaved with my team, this made total sense. I’d bought into the narrative that “work life balance” == “not working long hours”. In our team slack, I was very vocal about making sure people weren’t being “degens” by working on weekends. Example:
 
-![Screen Shot 2022-07-23 at 1.27.50 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/910b8a3a-e93b-4c82-8db8-dd90e963ff83/Screen_Shot_2022-07-23_at_1.27.50_PM.png)
+![Screen Shot 2022-07-23 at 1.27.50 PM.png](https://banana-dev.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F910b8a3a-e93b-4c82-8db8-dd90e963ff83%2FScreen_Shot_2022-07-23_at_1.27.50_PM.png?table=block&id=83c6eb16-6033-41aa-b28b-9b145f8d9008&spaceId=55445ebe-4d44-4adc-a538-1d70c744034f&width=1420&userId=&cache=v2)
 
 I’d later learned that some team members took to DMs to work on the weekends, because I was signalling against hard work. They WANTED to work.
 
@@ -157,15 +157,3 @@ I want to work hard.
 So why the fuck was I not?
 
 ### —> Inflection time.
-
----
-
-### Epilogue: How I’m Growing
-
-July 24, two weeks after writing the above blog.
-
-I’ve begun what I believe to be a proper inflection, just as I’d desired.
-
-I’m pushing myself on both signal and substance. I’ll try to keep this updated with any concrete examples of me pushing myself in public to have real substantial outcomes.
-
-Example 1 - [weight loss + gym streak thread](https://twitter.com/erikdoingthings/status/1545829337470992387?s=20&t=IJzlnv75y1mFSOliwWuzhA), featuring unapologetic [shirtless progress pics](https://twitter.com/erikdoingthings/status/1550894741147029504?s=20&t=kuhJCNcr02B2kbJS7ILSJw)
