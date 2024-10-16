@@ -7,7 +7,7 @@ Most notably, I built [Banana](https://banana.dev), one of the first and most lo
 I'm now working with [Modal](https://modal.com) to help show the world the power of self-provisioning infra.
 
 ### Links
-- [Twitter](https://twitter.com/erikdunteman)
+- [Twitter](https://twitter.com/erikdunteman) (recommended)
 - [LinkedIn](https://linkedin.com/in/edunteman)
 - [Github](https://github.com/erik-dunteman)
 - [OnlyFans](https://youtu.be/dQw4w9WgXcQ)
