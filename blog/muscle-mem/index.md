@@ -13,7 +13,7 @@ Muscle Mem is [open source](https://github.com/pig-dot-dev/muscle-mem) and free 
 
 See it in action here:
 
-[https://www.loom.com/share/5936cd9779504aa5a7dce5d72370c35d?sid=d1c31b88-43d7-4eb7-9e1e-37d67864ea21](https://www.loom.com/share/5936cd9779504aa5a7dce5d72370c35d?sid=d1c31b88-43d7-4eb7-9e1e-37d67864ea21)
+[![Muscle Memory System Demo](https://img.youtube.com/vi/hToIl9PRyRk/0.jpg)](https://www.youtube.com/watch?v=hToIl9PRyRk)
 
 ## Muscle Memory as a new category
 
