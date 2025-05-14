@@ -4,7 +4,7 @@ I'm a founder and engineer focused on developer tools, cloud computing, and AI.
 
 Most notably, I built [Banana](https://banana.dev), one of the first and most loved Serverless GPU platforms. We helped more than 3000 teams deploy their AI models to GPUs for inference. Following that, I had the privilege to work with our former competitor [Modal](https://modal.com), learning what excellence looks like.
 
-I am currently building [Pig](https://pig.dev), an API for automating Windows Apps with AI. Over more than 5 years serving LLMs and working with AI teams, it became too hard to ignore the power of LLMs. The world runs on legacy windows apps, and will continue to do so, and developer tooling deserves a facelift as we transition to an AI-first world.
+I am currently building [Muscle Memory](https://github.com/pig-dot-dev/muscle-mem), a behavior cache that helps AI agents efficiently learn and reuse skills. We participated as [Pig.dev](https://pig.dev) in YC W25 batch.
 
 ### Links
 - [Twitter](https://twitter.com/erikdunteman) (recommended)
@@ -18,6 +18,7 @@ I am currently building [Pig](https://pig.dev), an API for automating Windows Ap
 - [Signal Can Lead To Substance](blog/signal-can-lead-to-substance) - Jul 2022
 - [Banana Pivot: Unpeeled](blog/banana-pivot-unpeeled) - Feb 2024
 - [Shutting Down Banana](blog/shutting-down-banana) - Jun 2024
+- [Muscle Mem](blog/muscle-mem) - May 13
 
 ### Side Interests
 - I'm an endurance runner, most recently finishing a [50 mile ultramarathon](https://www.spartantrail.com/golden-gate-trail-classic).
