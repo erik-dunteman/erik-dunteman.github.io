@@ -152,7 +152,7 @@ The read/write APIs to the environment (such as screenshot / click in computer u
 
 **3. No hidden nondeterminism**
 
-In my years as a developer and devtools founder, building projects such as [Banana](https://www.notion.so/Muscle-Mem-May-4-spec-1ead787b41e9803fa614e59f8dc7ab71?pvs=21) (serverless GPUs) and [Fructose](https://github.com/bananaml/fructose) (structured generation client), I’ve learned to avoid anything “automagical”.
+In my years as a developer and devtools founder, building projects such as [Banana](https://banana.dev) (serverless GPUs) and [Fructose](https://github.com/bananaml/fructose) (structured generation client), I’ve learned to avoid anything “automagical”.
 
 It’s tempting to create a magical day-0 experience by patching prompts and running LLM calls behind the scenes, but this opinionation adds more reasons to churn at day-100.
 
