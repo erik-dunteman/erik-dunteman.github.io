@@ -144,7 +144,7 @@ Over time, I arrived at three new constraints:
 
 I don’t want `Muscle Mem` to be yet another agent framework. The thesis of the project is to use agents as precision tool, only as needed, which means `Muscle Mem` must sit one layer below your agent and treat it as a black box.
 
-A call to `engine(task)` should feel no different from `agent(task)` . All the engine needs to know is that it call `agent(task)`.
+A call to `engine(task)` should feel no different from `agent(task)` . All the engine needs to know is that it can call `agent(task)`.
 
 **2. Bring your own environment**
 
