@@ -178,7 +178,7 @@ Muscle Mem does plenty of things, from tool instrumentation to storage to retrie
 
 “Given {some task} in {the current environment}, is it safe to perform this cached action?”
 
-Imagine a muscle memory system that has no perception of the current environment. Such a system would could encounter a wildly different environment, yet blindly repeat the same exact actions as before, confidently forging forward with no idea that it’s broken. This would be no different from using scripts (like RPA).
+Imagine a muscle memory system that has no perception of the current environment. Such a system could encounter a wildly different environment, yet blindly repeat the same exact actions as before, confidently forging forward with no idea that it’s broken. This would be no different from using scripts (like RPA).
 
 So, the key to muscle memory isn’t just about storing actions. It’s about capturing and storing data about the environment in which those actions were taken.
 
@@ -249,13 +249,13 @@ The Check is the fundamental building block for cache validation. They determine
 
 Each Check encapsulates:
 
-- A `capture` callback to extracts relevant features from the current environment
-- A `compare` callback to determines if current environment matches cached environment
+- A `capture` callback to extract relevant features from the current environment
+- A `compare` callback to determine if current environment is sufficiently close to the cached environment
 
 ```python
 Check(
-	capture: Callable[P, T],
-  compare: Callable[[T, T], Union[bool, float]],
+   capture: Callable[P, T],
+   compare: Callable[[T, T], Union[bool, float]],
 ):
 ```
 
@@ -263,7 +263,7 @@ You can attach Checks to each tool `@engine.tool` to enforce cache validation.
 
 This can be done before the tool call as a precheck (also used for query time validation), or after a tool call as a postcheck. 
 
-Below is a contrived example, which captures use of the `hello` tool, and uses timestamps and a one second expiration as the Check mechanic for cache validation.
+Below is a contrived example, which records use of the `hello` tool, and uses timestamps and a one second expiration as the Check mechanic for cache validation.
 
 ```python
 # our capture implementation, taking params and returning T
